@@ -49,7 +49,7 @@ The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on four
 
 ## Instructions
 
-Although the labelling process is similar between UBCFS and AMS, there are some differences due to different input sources. The detailed explanation for UBCFS and AMS are written in their 
+Although the labelling process is similar between UBCFS and AMS, there are some differences due to different input sources. The detailed explanation for UBCFS and AMS are written in their respective notebooks.
 
 Instructions for running the analysis processes:
 1. To complete analysis for UBC Food Services Products navigate to the **UBCFS/RECIPE_PROCESSES_2023_2024** directory where you will see 5 files that each complete one step of the analysis proceedure. More information on the particular inputs and files required are provided as comments in all code cells.
