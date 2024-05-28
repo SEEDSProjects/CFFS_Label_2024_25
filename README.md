@@ -37,7 +37,7 @@ The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on four
     │   └── 4_data_analysis.ipynb
     │   └── 5_Recipes_Labelling.ipynb
     │
-    ├── Notebooks_UBCFS
+    ├── Notebooks_AMS
     │   └── 1_data_preprocessing.ipynb
     │   └── 2_data_cleaning.ipynb
     │   └── 3_update_info_and_mapping.ipynb
