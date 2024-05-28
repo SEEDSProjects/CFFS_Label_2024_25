@@ -1,7 +1,0 @@
-PrepId,Description,PakQty,PakUOM,InventoryGroup,StdQty,StdUom
-P-71427,BATCH|Beef Sausage roll,60.0,each,,60.0,each
-P-7093,COOKED|Mashed Potatoes,30.0,Kg,PREP,30000.0,g
-P-25993,MIX|Salt and Pepper - FT,7.0,Kg,,7000.0,g
-P-26759,ROASTED|Brussel Sprout,4.536,Kg,,4536.0,g
-P-62014,ROASTED|Carved Beef,9.2,Kg,,9200.0,g
-P-70677,YIELD|Demi Glace,1.8,L,,1800.0,ml

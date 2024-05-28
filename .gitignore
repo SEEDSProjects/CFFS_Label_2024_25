@@ -1,2 +1,5 @@
 cffs
 .DS_Store
+data
+*.csv
+*.xlsx
