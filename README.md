@@ -49,6 +49,12 @@ The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on four
 
 ## Instructions
 
+### Baseline Calculation
+
+All baseline calculations are done in ```Label_Baseline_Calculation/baseline_OK.ipynb```. If baseline is updated or a new parameter is added, then please run the file again with updated data files store in ```data/Misc/data_for_calculating_baseline```. 
+
+### Label Calculation Process
+
 Although the labelling process is similar between UBCFS and AMS, there are some differences due to different input sources. The detailed explanation for UBCFS and AMS are written in their respective notebooks.
 
 Instructions for running the analysis processes:
