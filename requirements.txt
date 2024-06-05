@@ -21,6 +21,7 @@ chromadb==0.5.0
 click==8.1.7
 coloredlogs==15.0.1
 comm==0.2.2
+configparser==7.0.0
 contourpy==1.2.1
 cycler==0.12.1
 dataclasses-json==0.6.6
@@ -132,6 +133,7 @@ parso==0.8.4
 pexpect==4.9.0
 pickleshare==0.7.5
 pillow==10.3.0
+pip-tools==7.4.1
 pipreqs==0.5.0
 platformdirs==4.2.1
 pluggy==1.5.0
@@ -206,6 +208,7 @@ wcwidth==0.2.13
 webencodings==0.5.1
 websocket-client==1.8.0
 websockets==12.0
+wheel==0.43.0
 wrapt==1.16.0
 yarg==0.1.9
 yarl==1.9.4
