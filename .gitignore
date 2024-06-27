@@ -3,3 +3,4 @@ cffs
 data
 *.csv
 *.xlsx
+.vscode
