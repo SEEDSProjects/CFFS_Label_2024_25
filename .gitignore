@@ -4,3 +4,4 @@ data
 *.csv
 *.xlsx
 .vscode
+missing.txt
