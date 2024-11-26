@@ -53,12 +53,17 @@ The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on four
 
 All baseline calculations are done in ```Label_Baseline_Calculation/baseline_OK.ipynb```. If baseline is updated or a new parameter is added, then please run the file again with updated data files store in ```data/Misc/data_for_calculating_baseline```. 
 
+The baseline numbers are stored in ```data/Misc/baseline.ini``` and are read in during ```5_Recipes_Labelling.ipynb```.
+
 ### Label Calculation Process
 
-Although the labelling process is similar between UBCFS and AMS, there are some differences due to different input sources. The detailed explanation for UBCFS and AMS are written in their respective notebooks.
+Although the labelling process is similar between UBCFS and AMS, there are some differences due to different input sources. The detailed explanation for UBCFS and AMS are written in their respective notebooks inside ```Notebook_UBCFS``` and ```Notebook_AMS``` respectively.
 
-Instructions for running the analysis processes:
-1. To complete analysis for UBC Food Services Products navigate to the **UBCFS/RECIPE_PROCESSES_2023_2024** directory where you will see 5 files that each complete one step of the analysis proceedure. More information on the particular inputs and files required are provided as comments in all code cells.
-2. To complete anaylsis for UBC AMS navigate to the **AMS_2023_2024_Current_Version/RECIPE_PROCESSES_2023_2024** directory where you will see 5 files that each complete one step of the analysis proceedure. More information on the particular inputs and files required are provided as comments in all code cells.
-3. NLP Model Google Colab Workbook: https://colab.research.google.com/drive/1pckGYAkNr7-rkkefSF6GWSJlBQZN9T--?usp=sharing
-4. To automate the manual work of assigning GHG categories to the ingredients list, look at the files inside the **Misc_Notebooks/Categorizing_IDs_to_GHG_IDs** directory.
+For more information, please refer to the tutorial video.
+
+### Miscellaneous Notebooks
+
+1. NLP Model Google Colab Workbook: https://colab.research.google.com/drive/1pckGYAkNr7-rkkefSF6GWSJlBQZN9T--?usp=sharing
+2. To automate the manual work of assigning GHG categories to the ingredients list, look at the files inside the ```Misc_Notebooks/Categorizing_IDs_to_GHG_IDs``` directory.
+3. Machine Learning Model that deals with Classification into Item IDs inside ```Misc_Notebooks/Machine_Learning_algorithms_solutions/Item_categorization.ipynb```
+
