@@ -11,6 +11,10 @@ The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on four
 - UBC Food Services: Open Kitchen, Gather, Feast
 - AMS: The Gallery
 
+## Pythong Version
+
+```Python 3.11.10```
+
 ## Repository Structure
 
     ├── README.md          <- The top-level README for developers using this project.
