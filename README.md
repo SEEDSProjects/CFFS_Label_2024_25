@@ -63,6 +63,8 @@ The baseline numbers are stored in ```data/Misc/baseline.ini``` and are read in 
 
 Although the labelling process is similar between UBCFS and AMS, there are some differences due to different input sources. The detailed explanation for UBCFS and AMS are written in their respective notebooks inside ```Notebook_UBCFS``` and ```Notebook_AMS``` respectively.
 
+```Ingredient_check.ipynb``` is a notebook that generates the ingredients for all products in the current outlet that the calculation is being done for.
+
 For more information, please refer to the tutorial video.
 
 ### Miscellaneous Notebooks
@@ -70,5 +72,4 @@ For more information, please refer to the tutorial video.
 1. NLP Model Google Colab Workbook: https://colab.research.google.com/drive/1pckGYAkNr7-rkkefSF6GWSJlBQZN9T--?usp=sharing
 2. To automate the manual work of assigning GHG categories to the ingredients list, look at the files inside the ```Misc_Notebooks/Categorizing_IDs_to_GHG_IDs``` directory.
 3. Machine Learning Model that deals with Classification into Item IDs inside ```Misc_Notebooks/Machine_Learning_algorithms_solutions/Item_categorization.ipynb```
-4. ```Ingredient_check.ipynb``` is a notebook that generates the ingredients for all products in the current outlet that the calculation is being done for.
 
