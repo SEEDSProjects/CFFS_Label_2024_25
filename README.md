@@ -11,7 +11,7 @@ The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on seve
 - UBC Food Services: Open Kitchen, Gather, Feast, Perugia Cafe, Mercante
 - AMS: The Gallery, Blue Chip Cafe
 
-## Pythong Version
+## Python Version
 
 ```Python 3.11.10```
 
