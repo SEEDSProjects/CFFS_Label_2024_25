@@ -7,11 +7,11 @@ To implement the Climate-Friendly Food Systems (CFFS) definition at the UBC Camp
 
 ## Scope
 
-The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on four sites, three of which are for UBC Food Services and the last one for AMS. 
-- UBC Food Services: Open Kitchen, Gather, Feast
-- AMS: The Gallery
+The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on seven sites, five of which are for UBC Food Services and the last two for AMS. 
+- UBC Food Services: Open Kitchen, Gather, Feast, Perugia Cafe, Mercante
+- AMS: The Gallery, Blue Chip Cafe
 
-## Pythong Version
+## Python Version
 
 ```Python 3.11.10```
 
